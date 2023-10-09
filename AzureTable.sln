@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTable", "AzureTable\AzureTable.csproj", "{D1F0E871-22BD-4EB6-8B33-7CA592CB644F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetriveTheDataToTheTable", "RetriveTheDataToTheTable\RetriveTheDataToTheTable.csproj", "{E1BB804F-8C3A-4DC1-8355-4D1AF18D920C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D1F0E871-22BD-4EB6-8B33-7CA592CB644F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1F0E871-22BD-4EB6-8B33-7CA592CB644F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1F0E871-22BD-4EB6-8B33-7CA592CB644F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BB804F-8C3A-4DC1-8355-4D1AF18D920C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BB804F-8C3A-4DC1-8355-4D1AF18D920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BB804F-8C3A-4DC1-8355-4D1AF18D920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BB804F-8C3A-4DC1-8355-4D1AF18D920C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
