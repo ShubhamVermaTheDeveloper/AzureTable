@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AzureTable
+namespace AddEntityToTheTable
 {
     public class Customer : TableEntity
     {

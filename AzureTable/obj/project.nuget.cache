@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fmAFrs//YHMHBueOjT86ugvPdrWc9J5TeM0K2v05m9P03vKP82sDa4ZbhBI6ypymcMyBaegMODx+uqk3g2xL6w==",
+  "dgSpecHash": "9Whnki341vYTIi46FfBxa8r6aR1IMORDO4KnEPl6bXQWPdn//zS8/0XRSS/52AN9kNKBm13uFuNr2tZ89nZ8Eg==",
   "success": true,
-  "projectFilePath": "C:\\Github\\Azure Storage\\Tables\\Tryal\\AzureTable\\AzureTable\\AzureTable.csproj",
+  "projectFilePath": "C:\\Github\\Azure Storage\\Tables\\Tryal\\AzureTable\\AzureTable\\AddEntityToTheTable.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShubhamVerma\\.nuget\\packages\\microsoft.azure.cosmos.table\\1.0.8\\microsoft.azure.cosmos.table.1.0.8.nupkg.sha512",
     "C:\\Users\\ShubhamVerma\\.nuget\\packages\\microsoft.azure.documentdb.core\\2.11.2\\microsoft.azure.documentdb.core.2.11.2.nupkg.sha512",

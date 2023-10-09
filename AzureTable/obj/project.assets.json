@@ -6559,9 +6559,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\Azure Storage\\Tables\\Tryal\\AzureTable\\AzureTable\\AzureTable.csproj",
-      "projectName": "AzureTable",
-      "projectPath": "C:\\Github\\Azure Storage\\Tables\\Tryal\\AzureTable\\AzureTable\\AzureTable.csproj",
+      "projectUniqueName": "C:\\Github\\Azure Storage\\Tables\\Tryal\\AzureTable\\AzureTable\\AddEntityToTheTable.csproj",
+      "projectName": "AddEntityToTheTable",
+      "projectPath": "C:\\Github\\Azure Storage\\Tables\\Tryal\\AzureTable\\AzureTable\\AddEntityToTheTable.csproj",
       "packagesPath": "C:\\Users\\ShubhamVerma\\.nuget\\packages\\",
       "outputPath": "C:\\Github\\Azure Storage\\Tables\\Tryal\\AzureTable\\AzureTable\\obj\\",
       "projectStyle": "PackageReference",
