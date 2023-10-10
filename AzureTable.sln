@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Combine", "Combine", "{092B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCustomerTable", "AzureCustomerTable\AzureCustomerTable.csproj", "{458F835F-926B-4F6A-9C4D-9AAEBC27D1D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageTableCrud", "StorageTableCrud\StorageTableCrud.csproj", "{BD3BDECA-0D56-4AAE-A145-5A41CE9DEAC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{458F835F-926B-4F6A-9C4D-9AAEBC27D1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{458F835F-926B-4F6A-9C4D-9AAEBC27D1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{458F835F-926B-4F6A-9C4D-9AAEBC27D1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3BDECA-0D56-4AAE-A145-5A41CE9DEAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3BDECA-0D56-4AAE-A145-5A41CE9DEAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3BDECA-0D56-4AAE-A145-5A41CE9DEAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3BDECA-0D56-4AAE-A145-5A41CE9DEAC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
