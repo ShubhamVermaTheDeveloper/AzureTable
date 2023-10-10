@@ -26,6 +26,7 @@ C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\microsoft.identitymodel.dll
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
@@ -227,4 +228,3 @@ C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\obj\Debug\net6.
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\obj\Debug\net6.0\StorageTableCrud.pdb
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\obj\Debug\net6.0\StorageTableCrud.genruntimeconfig.cache
 C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\obj\Debug\net6.0\ref\StorageTableCrud.dll
-C:\Github\Azure Storage\Tables\Tryal\AzureTable\StorageTableCrud\bin\Debug\net6.0\microsoft.identitymodel.dll

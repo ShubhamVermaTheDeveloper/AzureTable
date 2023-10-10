@@ -15,5 +15,6 @@ namespace StorageTableCrud.Models
         public string FatherName { get; set; }
         public string Age { get; set; }
         public string City { get; set; }
+        public byte[] Image { get; set; }
     }
 }
