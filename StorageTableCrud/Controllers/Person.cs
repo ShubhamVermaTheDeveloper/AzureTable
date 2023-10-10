@@ -1,4 +1,5 @@
 ﻿using Azure.Data.Tables;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Options;
@@ -23,18 +24,35 @@ namespace StorageTableCrud.Controllers
             _azureOptions = azureOptions.Value;
         }
 
-
+        [HttpGet]
         public IActionResult Index()
         {
-            //_person.CreateTable();
-            //_person.InsertRecord();
-           
             List<PersonModel> list = _person.ReadRecord();
             return View(list);
         }
 
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(PersonModel person)
+        {
+            _person.InsertRecord(person);
+            return RedirectToAction("Index");
+        }
 
         
+
+        public IActionResult Delete(string RowKey)
+        {
+            _person.DeleteRecord(RowKey);
+            return RedirectToAction("Index");
+        }
+
+
     }
 }

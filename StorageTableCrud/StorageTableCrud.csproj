@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Azure.Data.Tables" Version="12.8.1" />
+    <PackageReference Include="Microsoft.IdentityModel" Version="7.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
   </ItemGroup>
 

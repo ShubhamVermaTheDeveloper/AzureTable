@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 var Services = builder.Services;
 Services.Configure<AzureOptions>(builder.Configuration.GetSection("Azure"));
-Services.AddTransient<IPerson, Person>();
+Services.AddScoped<IPerson, Person>();
 
 var app = builder.Build();
 

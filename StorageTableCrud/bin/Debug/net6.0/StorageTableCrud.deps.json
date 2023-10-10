@@ -9,6 +9,7 @@
       "StorageTableCrud/1.0.0": {
         "dependencies": {
           "Azure.Data.Tables": "12.8.1",
+          "Microsoft.IdentityModel": "7.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
         },
         "runtime": {
@@ -1099,6 +1100,14 @@
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {},
+      "Microsoft.IdentityModel/7.0.0": {
+        "runtime": {
+          "lib/net35/microsoft.identitymodel.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "6.1.7601.24479"
+          }
+        }
+      },
       "Microsoft.NET.StringTools/17.3.2": {
         "dependencies": {
           "System.Memory": "4.5.5",
@@ -2750,6 +2759,13 @@
       "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-55LP0/gF3OAGhPNw/QxJs9q72xyS8rJ4ndZJC+GMSEjARh4hPmGVet2Oa9B8p8KKl3g8u3e+mh6WoBoUa0AiAA==",
+      "path": "microsoft.identitymodel/7.0.0",
+      "hashPath": "microsoft.identitymodel.7.0.0.nupkg.sha512"
     },
     "Microsoft.NET.StringTools/17.3.2": {
       "type": "package",

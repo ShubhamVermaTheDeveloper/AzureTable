@@ -11,7 +11,9 @@ namespace StorageTableCrud.Models
         public DateTimeOffset? Timestamp { get; set; }
         public ETag ETag { get; set; }
 
-        public string FirstName { get; set; }
+        public string Name { get; set; }
+        public string FatherName { get; set; }
+        public string Age { get; set; }
         public string City { get; set; }
     }
 }
